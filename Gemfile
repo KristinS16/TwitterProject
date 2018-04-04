@@ -30,6 +30,9 @@ gem 'paperclip', '~> 6.0'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 #gem font_awesome-rails
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.3'
+# gem mini_magick
+gem 'mini_magick', '~> 4.5', '>= 4.5.1'
+
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
